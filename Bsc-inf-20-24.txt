@@ -1,0 +1,41 @@
+* commit 6712b36f461594cb34af805b6b565e9be9202df6
+| Author: PRAISE PHIRI <bsc-inf-20-24@unima.ac.mw>
+| Date:   Fri Mar 6 00:41:09 2026 +0200
+| 
+|     Add .gitignore
+| 
+* commit 4cabe40f3d7cb61b208088c7e5d2cfd569471be0
+| Author: PRAISE PHIRI <bsc-inf-20-24@unima.ac.mw>
+| Date:   Fri Mar 6 00:19:01 2026 +0200
+| 
+|     modify conflict.txt on text-branch
+| 
+* commit c1452751139f8da51887943ead96383c891e4ed3
+| Author: PRAISE PHIRI <bsc-inf-20-24@unima.ac.mw>
+| Date:   Fri Mar 6 00:15:46 2026 +0200
+| 
+|     add conflict.txt on main
+| 
+* commit f96bb60d1594a42499ce4e1f52ebb5a0d85ce683
+| Author: PRAISE PHIRI <bsc-inf-20-24@unima.ac.mw>
+| Date:   Fri Mar 6 00:11:13 2026 +0200
+| 
+|     add login form
+| 
+* commit da19a9c6c64583de3f5e95bb714943dd6e83fe4a
+| Author: Bsc-inf-20-24 <bsc-inf-20-24@unima.ac.mw>
+| Date:   Thu Mar 5 23:56:59 2026 +0200
+| 
+|     Update index.html
+| 
+* commit 3e5be4c6ac9ab4c97bfa531610461fe78f9d947b
+| Author: PRAISE PHIRI <bsc-inf-20-24@unima.ac.mw>
+| Date:   Thu Mar 5 23:25:28 2026 +0200
+| 
+|     add basic css
+| 
+* commit f6dd6a4a5a3275b7c1b3aa4ce80ab6ee83456003
+  Author: PRAISE PHIRI <bsc-inf-20-24@unima.ac.mw>
+  Date:   Thu Mar 5 23:22:55 2026 +0200
+  
+      Initial commit: add homepage
